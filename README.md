@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **LCP**
+ 🔭 I’m currently working on a project focused on **back-end solutions**.
  
- 🌱 I’m currently learning **DevOps, Cyber security**
+ 🌱 I’m currently learning **DevOps, ML**
 
- 💬 Ask me about **Python, Networking, Linux... or anything [here](https://github.com/SHK-MNRJ/SHK-MNRJ/issues)**
+ 💬 Ask me about **Python, Networking, Linux... or anything [here](https://github.com/mraj-dev/mraj-dev/issues)**
 
  </div>
  
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,jquery,github,git" />
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,flask,django,bash,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,flask,bash,linux" /><br>
 </div>
 
 <br/>
@@ -43,10 +43,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SHK-MNRJ&count_private=false&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SHK-MNRJ&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mraj-dev&count_private=false&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mraj-dev&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SHK-MNRJ&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mraj-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
